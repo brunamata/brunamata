@@ -6,16 +6,14 @@
 - 🏀 Apaixonada em jogar basquete (também curto tocar piano!)
 
 ## Algumas ferramentas que uso na faculdade e na vida :)
-<div>
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-            <i class="devicon-javascript-plain"></i>
-            <i class="devicon-nodejs-plain"></i>
-            <i class="devicon-mysql-plain-wordmark"></i>
-            <i class="devicon-github-original"></i>
-            <i class="devicon-c-line"></i>
-            <i class="devicon-figma-plain"></i>
-            <i class="devicon-python-plain"></i>         
-</div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-javascript-plain"></i>
+<i class="devicon-nodejs-plain"></i>
+<i class="devicon-mysql-plain-wordmark"></i>
+<i class="devicon-github-original"></i>
+<i class="devicon-c-line"></i>
+<i class="devicon-figma-plain"></i>
+<i class="devicon-python-plain"></i>         
           
 ## Entre em contato comigo!
 <div>
