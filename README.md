@@ -1,5 +1,27 @@
-### Hi there 👋
+# Oiee, sou a Bruna! 🥰👋
 
+- 👩🏽‍💻 Estou cursando o 3º semestre em Sistemas de Informação na USP
+- 📚 Aprendendo Java, haskell, R, JavaScript e Python
+- 🐧 Coordenadora de divulgação na Campanha do Agasalho, membro no Iniciativas Mercado e ICMC Jr
+- 🏀 Apaixonada em jogar basquete (também curto tocar piano!)
+
+## Algumas ferramentas que uso na faculdade e na vida :)
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+## Contatos:
+<div>
+  <a href="https://instagram.com/brunamata.04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brunamata@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunamata" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/brunamata">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunamata&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunamata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+          
 <!--
 **brunamata/brunamata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
