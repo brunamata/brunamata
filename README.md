@@ -1,8 +1,8 @@
 # Oiee, sou a Bruna! 🥰👋
 
-- 👩🏽‍💻 Estou cursando o 3º semestre em Sistemas de Informação na USP
-- 📚 Aprendendo Java, haskell, R, JavaScript e Python
-- 🐧 Coordenadora de divulgação na Campanha do Agasalho, membro no Iniciativas Mercado e ICMC Jr
+- 👩🏽‍💻 Estou cursando o 4º semestre em Sistemas de Informação na USP
+- 📚 Aprendendo Kotlin, JavaScript e Java
+- 🐧 Coordenadora geral na Campanha do Agasalho <3
 - 🏀 Apaixonada em jogar basquete (também curto tocar piano!)
 
 ## Algumas ferramentas que uso na faculdade e na vida :)
